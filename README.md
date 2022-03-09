@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Erem</h1>
+<h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">I'm a programmer by day and dead by night.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=endmr11&label=Profile%20views&color=0e75b6&style=flat" alt="endmr11" /> </p>
