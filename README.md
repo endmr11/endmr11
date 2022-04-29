@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Eren</h1>
-<h3 align="center">I'm a programmer by day and dead by night.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=endmr11&label=Profile%20views&color=0e75b6&style=flat" alt="endmr11" /> </p>
 
@@ -7,7 +6,7 @@
 
 - 🔭 I’m currently working on [Dakik Remote Patient Monitoring](https://dakik.app/)
 
-- 🌱 I’m currently learning **Swift, Java, Kotlin, Redis**
+- 🌱 I’m currently learning **Swift**
 
 - 📫 How to reach me **erndemir.1@gmail.com**
 
