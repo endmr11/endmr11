@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eren</h1>
 
-
+<a href="https://pub.dev/packages/ed_screen_recorder"><img src="https://flutter-badge-generator.web.app/assets/assets/images/badges/package-publisher.svg" alt="Package Publisher" align="left" height="60" width="60" ></a>
+<br><br><br>
 - 🔭 I’m currently working on [Dakik Remote Patient Monitoring](https://dakik.app/)
 
 - 🌱 I’m currently learning **Swift**
