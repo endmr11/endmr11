@@ -4,7 +4,7 @@
 <br><br><br>
 - 🔭 I’m currently working on [Dakik Remote Patient Monitoring](https://dakik.app/)
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **erndemir.1@gmail.com**
 
