@@ -4,7 +4,7 @@
 <br><br><br>
 - 🔭 I’m currently working on [Yurtiçi Kargo](https://www.yurticikargo.com/)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Microservices Architecture**
 
 - 📫 How to reach me **erndemir.1@gmail.com**
 
