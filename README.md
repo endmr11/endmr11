@@ -87,7 +87,3 @@ See more projects on my [GitHub repositories page!](https://github.com/endmr11?t
 - 📧 erndemir.1@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/endmr11)
 - 📺 [YouTube](https://www.youtube.com/channel/UCVzQKd86Q2rEo2UrhEG2nQQ)
-
----
-
-<sub>This profile is automatically updated. For more details and references, feel free to reach out!</sub>
